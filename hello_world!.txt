@@ -1,3 +1,1 @@
 ls -la (on Mac terminal)
-
-this is my version of things. I AM RIGHT!!!
