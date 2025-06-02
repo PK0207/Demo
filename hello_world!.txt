@@ -1,3 +1,1 @@
 ls -la (on Mac terminal)
-
-cmd+shift+. (Mac shortcut)
